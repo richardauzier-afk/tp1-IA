@@ -5,7 +5,7 @@ Equipe: Caio Muniz,Richard Auzier
 ## Sobre o trabalho:
 
 Este programa em Prolog é um planejador para o domínio do mundo dos blocos, onde blocos podem ser movidos entre posições (lugares) com base em certas regras. O mundo dos blocos é um problema clássico em inteligência artificial.
-##  Como Executar passo a passo:
+##  Como executar passo a passo:
 
 1. **Ambiente SWISH - Prolog:**:
    Foi utilizado o site https://swish.swi-prolog.org.
