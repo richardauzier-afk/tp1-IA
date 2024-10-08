@@ -14,7 +14,7 @@ Este programa em Prolog é um planejador para o domínio do mundo dos blocos, on
 3. **Defina o estado inicial**:
    Você pode definir o estado inicial (state1 predicado) no arquivo Prolog com base no seu problema. Por padrão, o estado inicial é o estado inicial proposto no livro do Bratko.
 
-4. **Definir metas**
+4. **Definir metas**:
    Você pode definir as metas que você deseja alcançar colocando os goals na lista do predicado Plan
 
 5. **Forma de executar**:
