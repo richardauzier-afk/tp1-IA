@@ -11,7 +11,7 @@ Este programa em Prolog é um planejador para o domínio do mundo dos blocos, on
    Foi utilizado o site https://swish.swi-prolog.org.
     Basta copiar e colar o código no editor de texto do site.
 
-3. **Defina o Estado Inicial**:
+3. **Defina o estado inicial**:
    Você pode definir o estado inicial (state1 predicado) no arquivo Prolog com base no seu problema. Por padrão, o estado inicial é o estado inicial proposto no livro do Bratko.
 
 4. **Definir metas**
